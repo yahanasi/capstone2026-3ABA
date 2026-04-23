@@ -1,0 +1,5 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yahanasi/capstone2026-3ABA.git
+	branch = frontend
+
